@@ -23,7 +23,7 @@ I'm a multifaceted developer and musician formerly the CTO of Jungle Program. Af
 - 💼 [LinkedIn](https://linkedin.com/in/lrouffineau) - Let's connect!
 - 📧 m a i l (at) louis (dot) io - For any inquiries or collaboration opportunities.
 
-## ⚡ Fun fact:
+## ⚡ Fun fact
 
 When I was 10, I injected power with a 24 volts power adapter in a homemade DECT wireless landline phone network to create a DIY walkie-talky system in my neighborhood. By injecting power into the telephone plug, the voice was modulated over the power and transmitted between phones. So we could call each other for free, and my neighbor friends, sister, and I were using the phones our parents no longer use to chat. That was a fantastic experience connecting everyone, and it was free.
 
