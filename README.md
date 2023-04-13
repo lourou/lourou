@@ -29,4 +29,6 @@ When I was 10, I injected power with a 24 volts power adapter in a homemade DECT
 
 ---
 
+🦊 I mostly work on Gitlab, so most of my stuff is there.
+
 ⭐️ Made with ❤️ by [Louis](https://github.com/lourou)
