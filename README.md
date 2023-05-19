@@ -1,6 +1,6 @@
 # Hi there, I'm Louis! 👋
 
-I'm a multifaceted developer and musician formerly the CTO of Jungle Program. After building a community of 1,000 developers and collaborating with companies like N26, Zalando, and BlaBlaCar to offer tailored training programs in Data Science and Machine Learning, I've now embarked on an exciting journey in the fintech/wealthtech domain, developing a new and innovative project with friends.
+I'm a multifaceted developer and musician formerly the CTO of Jungle Program. After building a community of 250+ developers and collaborating with companies like N26, Zalando, and BlaBlaCar to offer tailored training programs in Data Science and Machine Learning, I've now embarked on an exciting journey in the fintech/wealthtech domain, developing a new and innovative project with friends.
 
 ## 🙋‍♂️ About Me
 
