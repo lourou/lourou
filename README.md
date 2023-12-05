@@ -7,9 +7,8 @@ I currently work at [Converse Messenger](https://converse.xyz), a web3 decentral
 ## 🙋‍♂️ About Me
 
 - 🎓 Skilled in **Front-end, back-end, and mobile development**.
-- 🤖 Practical knowledge in AI/LLM and Machine Learning.
+- 🤖 Practical knowledge in AI, LLMs and Machine Learning.
 - 💻 Love working with **TypeScript, React, ReactNative, Next.js, and Python for everything AI related**.
-- 🔭 Built a community of 250+ developers and collaborated with companies like N26, Zalando, and BlaBlaCar to offer tailored training programs in Data Science and Machine Learning.
 - 🎵 A musician who loves blending creativity with technology.
 - 🌱 Always learning and exploring new technologies and ideas.
 
@@ -19,6 +18,13 @@ I currently work at [Converse Messenger](https://converse.xyz), a web3 decentral
 - 🤝 Forged partnerships with leading European companies, including **N26, Zalando, Auto1, BlaBlaCar, Inserm, and Orange**.
 - 💡 Delivered **customized training programs** in tech, empowering individuals to advance their careers and businesses.
 - 📈 Contributed to the success of numerous developers in **Data Science, Machine Learning, and MLOps**.
+
+## Builds
+
+- [Calgrid](https://calgrid.com): make anything a date. Convert text notes, tickets, and booking emails into neatly organized calendar invites.
+- [Jungle Program](https://www.jungleprogram.com) is community of 250+ developers with training programs in Data Science and Machine Learning.
+- Lacompany, a web and mobile app development shop I ran for 12 years in Paris and Berlin between 2008-2020.
+- Vmix.fm (offline) was an internet radio with 5 channels dedicated to electronic music featuring worldwide artists and live DJ shows. 
 
 ## 🤙 Get in Touch
 
