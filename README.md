@@ -31,7 +31,7 @@ I currently work at [Converse Messenger](https://converse.xyz), a web3 decentral
 - [Calgrid](https://calgrid.com): make anything a date. Convert text notes, tickets, and booking emails into neatly organized calendar invites
 - [Jungle Program](https://www.jungleprogram.com): a community of 250+ developers with training programs in Data Science and Machine Learning
 - Lacompany: a web and mobile app development shop I ran for 12 years in Paris and Berlin between 2008-2020
-- Vmix.fm (offline) was an internet radio with 5 channels dedicated to electronic music featuring worldwide artists and live DJ shows
+- Vmix.fm: an internet radio with 5 channels dedicated to electronic music featuring worldwide artists and live DJ shows
 
 ## 🤙 Get in Touch
 
