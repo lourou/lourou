@@ -15,7 +15,7 @@ I currently work at [Converse Messenger](https://converse.xyz), a web3 decentral
 
 ## ✨ Converse Messenger Highlights
 
-- 💸 [Transaction Reference](https://github.com/xmtp/xmtp-js-content-types/pull/50) Content Type implementation on the [XMTP protocol](https://github.com/xmtp/xmtp-js-content-types/tree/main/packages/content-type-transaction-reference). It allows sending crypto transaction references as messages on the XMTP network
+- 💸 [Transaction Reference](https://github.com/xmtp/xmtp-js-content-types/pull/50) Content Type implementation on the [XMTP protocol](https://github.com/xmtp/xmtp-js-content-types/tree/main/packages/content-type-transaction-reference) level. It allows sending crypto transaction references as messages on the XMTP network
 - ✋ Implemented Portable Consent Protection to makes consent interoperable and only deliver wanted messages
 
 ## ✨ Jungle Program Highlights
